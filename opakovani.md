@@ -12,5 +12,4 @@
 
 
 
-# 4 Vytvoř program, který vypočítá a vypíše na konzoli obvod a obsah kruhu. Poloměr kruhu si uživatel zadá ze vstupu. 
-
+# 4 Vytvoř program, který vypočítá a vypíše obvod a obsah kruhu. Poloměr kruhu si uživatel zadá ze vstupu. Vytvoř větu kde kde použiješ tyto proměnné. Očekávaný vysledek: "Obsah kruhu je [obsah] a obvod je [obvod]."
