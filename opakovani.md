@@ -12,5 +12,5 @@
 
 
 
-# 4 Naprogramuj program, který vypočítá a vypíše na konzoli obvod a obsah kruhu. Poloměr kruhu si uživatel zadá ze vstupu. 
+# 4 Vytvoř program, který vypočítá a vypíše na konzoli obvod a obsah kruhu. Poloměr kruhu si uživatel zadá ze vstupu. 
 
