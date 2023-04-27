@@ -11,7 +11,7 @@ a) Cvičení
 * Časová náročnost na splnění řešení 45 minut.
 * Zadání vypracujte do souboru cviceni.md
  
-
+ 
 b) Opakování
 * Obdobně jako cvičení sestavte na stejné téma i ověřovací písemnou práci.
 * Zadání písemky vypracujte do souboru opakovani.md
